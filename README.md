@@ -12,6 +12,9 @@ Vietnamese Encoding Converter Online (VECON) là một dự án nguồn mở đ�
 * Khuyến khích mọi người sử dụng chuẩn Unicode.
 * Tuyên truyền và thúc đẩy phong trào sử dụng FOSS ở Việt Nam.
 
+## Cách thức tham gia phát triển
+Để tham gia phát triển dự án, các bạn đọc hướng dẫn tại: https://github.com/vecon/vecon/wiki/Cách-thức-phát-triển-dự-án-VEC
+
 ## Tài Nguyên
 
 * Blog: http://vietunicode.wordpress.com
