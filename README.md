@@ -17,5 +17,5 @@ Vietnamese Encoding Converter Online (VECON) là một dự án nguồn mở đ�
 * Blog: http://vietunicode.wordpress.com
 * Wiki: https://github.com/vecon/vecon/wiki
 * Mail Group: 
-- Cho người phát triển: vecon-dev@googlegroups.com
-- Cho người dùng: vecon-support@googlegroups.com
+  - Cho người phát triển: vecon-dev@googlegroups.com
+  - Cho người dùng: vecon-support@googlegroups.com
